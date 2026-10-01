@@ -1,0 +1,12 @@
+bin/
+obj/
+.vs/
+*.user
+
+# 교육자료 (GitHub에 올리지 않음)
+docs/training.html
+docs/img/
+
+# 프로그램에서 내보낸 분석 보고서/CSV
+samples/*.html
+samples/*.csv
